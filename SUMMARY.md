@@ -14,6 +14,10 @@
 
 * [Architecture](technical/architecture.md)
 
+## Governance
+
+* [Decision Manifesto](governance/decision-manifesto.md)
+
 ## Marketing & Growth
 
 * [Brand Guidelines](marketing/brand-guidelines.md)
